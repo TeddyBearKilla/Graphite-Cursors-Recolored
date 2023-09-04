@@ -103,7 +103,7 @@ EndSection
 
 # Preview
 ![Graphite](previews/CursorsSoFar.gif)
-### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
+### (Check [/previews](https://github.com/TeddyBearKilla/Graphite-Cursors-Recolored/tree/main/previews) for all colors)
 
 # All Cursors made as of September 4th
 ![Graphite](previews/CursorsSoFar.png)
